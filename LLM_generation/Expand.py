@@ -6,7 +6,7 @@ from tqdm import tqdm
 #df.info()
 sampled_df = pd.read_csv("claude/[Twitter]_claude_expanded_texts_v2.csv")
 #sampled_df = df
-sampled_df = sampled_df[sampled_df['claude_expanded_text'].isna()]
+sampled_df = sampled_df[sampled_df['claude_expanded_text'].isna()]      
 sampled_df = sampled_df.drop(columns=['claude_expanded_text','expanded_text'])
 sampled_df.info()
 from openai import OpenAI
