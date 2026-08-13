@@ -1,7 +1,9 @@
-# Sentiment Analysis of LLM-Generated Content in Human-LLM Climate Change Discussions
+<img width="599" height="302" alt="image" src="https://github.com/user-attachments/assets/642f74b3-2eec-4967-a8b3-0c4dafac8532" /># Sentiment Analysis of LLM-Generated Content in Human-LLM Climate Change Discussions
 ## 📖 Description   
 This project investigates how large language models (LLMs) handle emotional content and maintain semantic coherence in social media conversations.
 Using both open-source and commercial models, we analyze their behavior in continuation and response tasks on climate change discussions from Twitter and Reddit.
+
+<img width="599" height="302" alt="Process" src="https://github.com/user-attachments/assets/eb7c0f84-1bef-48ec-a599-12ae1c8e21ff" />
 
 ## 📁 Project Structure
 
