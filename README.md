@@ -1,4 +1,4 @@
-<img width="599" height="302" alt="image" src="https://github.com/user-attachments/assets/642f74b3-2eec-4967-a8b3-0c4dafac8532" /># Sentiment Analysis of LLM-Generated Content in Human-LLM Climate Change Discussions
+# Sentiment Analysis of LLM-Generated Content in Human-LLM Climate Change Discussions
 
 ## 📖 Description   
 This project investigates how large language models (LLMs) handle emotional content and maintain semantic coherence in social media conversations.
